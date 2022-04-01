@@ -49,8 +49,8 @@ export default function App() {
       </HStack>
       <Center flex="1">
         <VStack w="70%" alignItems="center" justifyContent="center" space={5}>
-          <Text fontSize="4xl">👋 Hi, I am ${fullName}!</Text>
-          <Text textAlign="center" fontSize="6xl">
+          <Text fontSize="4xl">👋 Hi, I am {fullName}!</Text>
+          <Text fontFamily="FranoisOne" textAlign="center" fontSize="6xl">
             UX Designer creating unique and human centered digital experiences
           </Text>
           <Text fontSize="2xl">
